@@ -118,5 +118,18 @@ img {
   #steps .row img{
     margin-top: 15px;
   }
-  /* steps */
+  
+   /* why */
+   #why{
+    background-color: #e2da8e;
+  }
+
+  #why .row>.first,
+  #why .row>.second,
+  #why .row>.third {
+    width: 100%;
+    margin-top: 15px;
+    font-size: 12px;
+  }
+
 }
