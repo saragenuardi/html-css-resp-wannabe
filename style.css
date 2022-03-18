@@ -96,8 +96,27 @@ img {
     float: left;
     font-size: 12px;
   }
-  
+
   h3{
     font-size: 1.5em;
   }
+
+  /* steps */
+  .container.grey {
+    background-color: #ffffff;
+  }
+
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right {
+    float: left;
+    width: 100%;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  #steps .row img{
+    margin-top: 15px;
+  }
+  /* steps */
 }
